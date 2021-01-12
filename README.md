@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Tobias, a Junior Web Developer (Front-/Backend)
+
 <!--
 **tobiasgbk/tobiasgbk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
